@@ -1,0 +1,15 @@
+	"scan":{
+		"prefix": "Scanner",
+		"body": [
+			"import java.util.Scanner;",
+
+			"\tpublic class $1 {",
+			"\t\tstatic Scanner s=new Scanner(System.in);",
+         	"\t\tpublic static void main(String[] args) {",
+          	"\t\t\tSystem.out.println(\"$2\");",
+					"\t\t\t\t$3",
+            	"\t\t}",
+           "}"
+
+		]
+	}

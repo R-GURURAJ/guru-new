@@ -1,5 +1,3 @@
-package clas;
-
 public class number_of_substring {
     public static void main(String[] args) {
         String a= "mani";
